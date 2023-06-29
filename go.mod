@@ -1,4 +1,4 @@
-module github.com/InjectiveLabs/metrics
+module github.com/FluxNFTLabs/metrics
 
 go 1.17
 
